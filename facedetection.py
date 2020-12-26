@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[15]:
 
 
 import zipfile
@@ -17,7 +16,7 @@ face_cascade = cv.CascadeClassifier(cv.data.haarcascades + 'haarcascade_frontalf
 pytesseract.pytesseract.tesseract_cmd = r'D:\downloaded programs\tesseract\tesseract.exe'
 
 
-# In[20]:
+
 
 
 class Facerecognition:
@@ -74,7 +73,7 @@ class Facerecognition:
         return contact_sheet
 
 
-# In[21]:
+    
 
 
 #if __name__=='__main__':
@@ -82,20 +81,11 @@ class Facerecognition:
 test=Facerecognition()
 
 
-# In[24]:
-
 
 test.loadimage("small_img.zip")
 
 
-# In[25]:
-
-
 test.wordsearch('Christopher')
-
-
-# In[ ]:
-
 
 
 
