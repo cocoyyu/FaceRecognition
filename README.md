@@ -26,5 +26,5 @@ Gitbash 2.29.2.2
 
 •	Sample result 
 
-![alt text](https://github.com/cocoyyu/FaceRecognition/blob/main/sample_result.jpg)
+![alt text](https://github.com/cocoyyu/FaceRecognition/blob/main/sample_result.JPG)
 
